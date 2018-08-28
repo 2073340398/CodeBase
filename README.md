@@ -20,17 +20,14 @@
 
 ## 操作
 
--git克隆
+- git克隆
 git clone [url]
 
--git拉取
+- git拉取
 git pull 拉取当前分支最新代码
 
--git更新
-改完代码后
-
-git add * (全部的意思)
-
-git commit -m "**"(如果多人开发，先pull最新代码，防止冲突)
-
-git push origin master
+- git更新
+> 改完代码后
+> git add * (全部的意思)
+> git commit -m "**"(如果多人开发，先pull最新代码，防止冲突)
+> git push origin master
