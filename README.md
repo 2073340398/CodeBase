@@ -27,7 +27,6 @@ git clone [url]
 git pull 拉取当前分支最新代码
 
 - git更新
-> 改完代码后:
 
 > git add * (全部的意思),
 
