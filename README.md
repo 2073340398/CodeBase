@@ -10,11 +10,11 @@
 
 ## 配置过程
 
-- 下载[gpg](https://help.github.com/articles/signing-commits-with-gpg/)
+- 下载 [GPG](https://help.github.com/articles/signing-commits-with-gpg/)
 
 - 生成key 打开git bash 输入gpg --gen-key
 
-- [配置](http://www.cnblogs.com/xueweihan/p/5430451.html)
+- [配置Git与GitHub](http://www.cnblogs.com/xueweihan/p/5430451.html)
 
 - 提交语法 git commit -S -m "Message"
 
