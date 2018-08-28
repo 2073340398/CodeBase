@@ -1,7 +1,19 @@
-# 配置签名
+<p align="center">
+  <h3 align="center">创建GPG密钥</h3>
 
-## 下载[gpg](https://help.github.com/articles/signing-commits-with-gpg/)
+  <p align="center">
+    为你的Commit加上一个签名
+  </p>
+</p>
 
-## 打开git bash生成key  gpg --gen-key
+<br>
 
-## [配置](http://www.cnblogs.com/xueweihan/p/5430451.html)
+## 配置过程
+
+- 下载[gpg](https://help.github.com/articles/signing-commits-with-gpg/)
+
+- 生成key 打开git bash 输入gpg --gen-key
+
+- [配置](http://www.cnblogs.com/xueweihan/p/5430451.html)
+
+- 提交语法 git commit -S -m "Message"
